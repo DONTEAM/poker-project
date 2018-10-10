@@ -38,18 +38,6 @@ REFERENCE SYSTEM
 
 You can find a running instance at:
 
-http://cubeiasocial.com
-http://cubeiapoker.com
-
 This Poker Network uses the open source Cubeia Poker, and a few non-open-source
 modules.
-
-
-LINKS
-=====
-
-Repo   :  https://bitbucket.org/cubeia/cubeia-poker
-Site   :  http://www.cubeia.org
-Forum  :  http://forum.cubeia.org
-Service:  http://www.cubeia.com/?page_id=251
 
